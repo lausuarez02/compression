@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/compression/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/compression/static/js/main.4134f00b.chunk.js",
+    "main.js.map": "/compression/static/js/main.4134f00b.chunk.js.map",
+    "runtime-main.js": "/compression/static/js/runtime-main.79eae508.js",
+    "runtime-main.js.map": "/compression/static/js/runtime-main.79eae508.js.map",
+    "static/css/2.4be38407.chunk.css": "/compression/static/css/2.4be38407.chunk.css",
+    "static/js/2.8ad3dab5.chunk.js": "/compression/static/js/2.8ad3dab5.chunk.js",
+    "static/js/2.8ad3dab5.chunk.js.map": "/compression/static/js/2.8ad3dab5.chunk.js.map",
+    "static/js/3.0d245ffc.chunk.js": "/compression/static/js/3.0d245ffc.chunk.js",
+    "static/js/3.0d245ffc.chunk.js.map": "/compression/static/js/3.0d245ffc.chunk.js.map",
+    "index.html": "/compression/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/compression/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/compression/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.8ad3dab5.chunk.js.LICENSE.txt": "/compression/static/js/2.8ad3dab5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79eae508.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.8ad3dab5.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.4134f00b.chunk.js"
+  ]
+}
